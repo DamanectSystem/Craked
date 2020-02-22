@@ -17,35 +17,35 @@ echo $i  "Loading........)"
 sleep 1.50
 clear
 sleep 1.50
-echo $cy "                      <Mr.DHACK>"
-echo $ku "     <============================================>"
+echo $me "                      DamanectSystem"
+echo $pu "     <============================================>"
 sleep 0.50
-echo $ku "     <======          InstallerV2           ======>"
+echo $me "     <======         DMtools.               ======>"
 sleep 0.50
 echo $ku "     <============================================>"
 echo $cy "                       <=profile=>"
 echo $ku " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"    
 echo $pu " <========================>"
-echo $cy " Author : Mr.D'HACK"
+echo $cy " Author : DamanectSystem"
+echo $pu " <=======================>"
+echo $cy " blog   : mrd4ytutorial.blogspot.com"
 echo $pu " <========================>"
-echo $cy " Wa     : 085647728398"
-echo $pu " <========================>"
-echo $cy " Github : github.com/DH4CK1"
+echo $cy " Github : github.com/damanect"
 echo $pu " <========================>"
 echo $ku " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 sleep 1.50
 echo ""
-echo $bi "      [ <=Tools installer=> ]"
+echo $bi "      [ <=DMtools=> ]"
 echo $pu "      -_-_-_-_-_-_-_-_-_-_-_-"                                 
 sleep 1.50
 echo $pu "<===============================>"
-echo $i  "[1].Install bahan (kalo gk install bahan bisa eror)"
+echo $i  "[1].Install bahanya dulu cok (kalo gk install bahan  ntar bisa eror)"
 echo $pu "<===============================>"
 sleep 0.5                                      
 echo $i  "[2].Hack cctv."
 echo $pu "<===============================>"
 sleep 0.5         
-echo $i  "[3].Bot-AI (buat jones)"
+echo $i  "[3].Bot-AI (buat jones wkwk)"
 echo $pu "<===============================>"
 sleep 0.5                                                                    
 echo $i  "[4].Phishing instagram"
@@ -89,10 +89,10 @@ echo $pu "<===============================>"
 sleep 1
 echo ""
 sleep 1.50
-read -p "pilih script yang ingin dipakai : " pil;
+read -p "pilih scriptnya stah : " pil;
 if [ $pil = "1" ]
 then
-    echo $i "Loading....."
+    echo $i "Loanjink....."
     sleep 1
     reset
     clear
