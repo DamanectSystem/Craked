@@ -8,12 +8,12 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
-#16/11/2019
-#jangan di recode yah kak apa coba susanya tinggal bikin sendiri:v
-#makanya belajar pemograman bukan cuma bisa jalanin script doang
-#biar tau cara bikinya gimana:v
+#16/11/2k20
+#hayolo mau ngapain kesini lo kontol
+#mau recode yak njink
+#pergi sono lo
 clear              
-echo $i  "Loading........)"
+echo $i  "Loanjink........)"
 sleep 1.50
 clear
 sleep 1.50
