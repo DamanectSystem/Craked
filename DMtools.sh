@@ -17,13 +17,13 @@ echo $i  "Loanjink........)"
 sleep 1.50
 clear
 sleep 1.50
-echo $pu "     █████████
-echo $pu "     █▄█████▄█
-echo $pu "     █▼▼▼
-echo $pu "     █  echo $me " WELCOM
-echo $pu "     █▲▲▲▲▲
-echo $pu "     █████████
-echo $pu "      ██ ██
+$pu "     █████████
+$pu "     █▄█████▄█
+$pu "     █▼▼▼▼
+$pu "     █$me"WELCOM
+$pu "     █▲▲▲▲▲
+$pu "     █████████
+$pu "      ██ ██
    
 echo $cy "                       <=profile=>"
 echo $ku " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"    
