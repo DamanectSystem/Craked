@@ -17,12 +17,14 @@ echo $i  "Loanjink........)"
 sleep 1.50
 clear
 sleep 1.50
-echo $me "                      DamanectSystem"
-echo $pu "     <============================================>"
-sleep 0.50
-echo $me "     <======         DMtools.               ======>"
-sleep 0.50
-echo $ku "     <============================================>"
+echo $pu "     █████████
+echo $pu "     █▄█████▄█
+echo $pu "     █▼▼▼
+echo $pu "     █  echo $me " WELCOM
+echo $pu "     █▲▲▲▲▲
+echo $pu "     █████████
+echo $pu "      ██ ██
+   
 echo $cy "                       <=profile=>"
 echo $ku " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"    
 echo $pu " <========================>"
